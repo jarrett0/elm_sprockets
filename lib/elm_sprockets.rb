@@ -5,7 +5,7 @@ module ElmSprockets
     app.assets.register_engine('.elm', ElmSprockets::Processor)
     app.assets.register_mime_type('text/x-elm', '.elm')
 
-    dont_pass_through_elm_files_hack(app.config.assets.precompile)
+    #dont_pass_through_elm_files_hack(app.config.assets.precompile)
   end
 
 
