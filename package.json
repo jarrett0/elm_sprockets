@@ -7,11 +7,11 @@
     "doc": "doc"
   },
   "dependencies": {
-    "elm": "0.16.0"
+    "elm": "0.17.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/NoRedInk/elm_sprockets.git"
+    "url": "git://github.com/jarrett0/elm_sprockets.git"
   },
   "author": "",
   "license": "UNLICENSED",
